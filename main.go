@@ -79,4 +79,5 @@ func main() {
 	myWindow.Resize(fyne.NewSize(300, 300))
 	myWindow.ShowAndRun()
 
+	err = killMoveMouse(cmd)
 }

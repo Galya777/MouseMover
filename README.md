@@ -1,4 +1,4 @@
-Creating a Mouse Mover GUI Application in Linux Using Go and Fyne
+# Creating a Mouse Mover GUI Application in Linux Using Go and Fyne
 
 This document outlines the steps to create a simple mouse mover GUI application in Linux using the Go programming language and the Fyne framework. The application will feature a graphical interface that allows users to start and stop a mouse mover function while displaying an icon.
 Prerequisites
@@ -11,7 +11,7 @@ Prerequisites
 
     go get fyne.io/fyne/v2
 
-Step 1: Create the Fyne Application
+# Step 1: Create the Fyne Application
 
     Create a new directory for your project:
 
@@ -204,6 +204,16 @@ sudo dpkg -i MouseMoverApp-1.0.0.deb
 Step 4: Run Your Application
 
 After installing the DEB package, you should be able to find your application in your application menu, complete with its icon. You can launch it from there or run it directly from the terminal.
+
+
 Conclusion
 
-You have successfully created a simple mouse mover GUI application in Linux using Go and Fyne. You also learned how to package it as a DEB file for easy distribution and installation. This documentation should serve as a reference for creating similar applications in the future. Happy coding!
+You have successfully created a simple mouse mover GUI application in Linux using Go and Fyne. You also learned how to package it as a DEB file for easy distribution and installation. This documentation should serve as a reference for creating similar applications in the future. 
+
+
+![Снимка на екрана на 2024-10-06 14-35-14](https://github.com/user-attachments/assets/ab145a99-3259-44f2-bb03-435d24371c8d)
+
+![изображение](https://github.com/user-attachments/assets/b79c8f88-c4ba-4529-a1ae-7eb772f01532)
+
+
+
